@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+logs/
+airflow.db
+.dags/
+.env
+data/bronze/
+data/silver/
+data/gold/
